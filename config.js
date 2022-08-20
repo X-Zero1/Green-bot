@@ -2,7 +2,7 @@ module.exports = {
     //IMPORTANT: If you need help with the installation of Green-bot, you can join our support server here: https://green-bot.app/discord
     prefix: "*",
     // Your discord bot token. https://discord.com/developpers/bots
-    token: "TOKEN",
+    token: "ODA2NjQ0NjA2MjIwODk0MjE5.G2Fp5p.OcwxLqKUBgbGDteMTKZDvdUB8EPifjuw-QnTxI",
     // Your ID
     ownerID: "688402229245509844",
     // Your name/tag
